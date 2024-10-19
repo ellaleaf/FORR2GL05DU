@@ -1,0 +1,14 @@
+## scene veiw
+leyfir manni að gera og breyta umhverfinu
+
+## game veiw
+leikurinn, hvað "players" sjá.
+
+## project 
+geymir allt data sem við notum í leikinum
+
+## hierarchy
+sýnir öll object sem við notum í leikinum
+
+## inspector
+sýnir allt um það sem er valið
