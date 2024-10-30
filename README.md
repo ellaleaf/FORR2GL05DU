@@ -10,3 +10,10 @@ video: https://youtu.be/oHLJKSbmyME
 [kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/b18a910f6ea10d3b443690f77868cfebb1c3404b/verkefni%201%20seinni%20partur)
 
 video: https://youtu.be/bL5bz4UJ0yg
+
+
+### verkefni 2
+
+[kóði]()
+
+video: https://youtu.be/RwF1jAaZs1Y
