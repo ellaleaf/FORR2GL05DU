@@ -14,6 +14,6 @@ video: https://youtu.be/bL5bz4UJ0yg
 
 ### verkefni 2
 
-[kóði]()
+[kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/dd44d024cf9d83180b60827701b9dbcb7305444a/verkefni%202)
 
 video: https://youtu.be/RwF1jAaZs1Y
