@@ -16,4 +16,6 @@ video: https://youtu.be/bL5bz4UJ0yg
 
 [kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/dd44d024cf9d83180b60827701b9dbcb7305444a/verkefni%202)
 
+[leikur]([https://github.com/ellaleaf/FORR2GL05DU/tree/dd44d024cf9d83180b60827701b9dbcb7305444a/verkefni%202](https://play.unity.com/en/games/a2ae5cfa-b8e4-4e3c-84f9-e1443bbf16d1/runner-forr2gl05du-verkefni-2))
+
 video: https://youtu.be/RwF1jAaZs1Y
