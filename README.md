@@ -25,4 +25,6 @@ video: https://youtu.be/RwF1jAaZs1Y
 
 [kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/2ed207f8a84f549bef6454e2bc5210b3220e9c91/verkefni%203/skriftur)
 
+video: https://youtu.be/aLIBcA8_KpU
+
 [leikur](https://play.unity.com/en/games/311536cd-7298-4295-9d50-28d4bed1b779/shooter)
