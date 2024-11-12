@@ -19,3 +19,10 @@ video: https://youtu.be/bL5bz4UJ0yg
 video: https://youtu.be/RwF1jAaZs1Y
 
 [leikur](https://play.unity.com/en/games/a2ae5cfa-b8e4-4e3c-84f9-e1443bbf16d1/runner-forr2gl05du-verkefni-2)
+
+
+### verkefni 3
+
+[kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/2ed207f8a84f549bef6454e2bc5210b3220e9c91/verkefni%203/skriftur)
+
+[leikur](https://play.unity.com/en/games/311536cd-7298-4295-9d50-28d4bed1b779/shooter)
