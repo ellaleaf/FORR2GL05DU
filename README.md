@@ -28,3 +28,10 @@ video: https://youtu.be/RwF1jAaZs1Y
 video: https://youtu.be/aLIBcA8_KpU
 
 [leikur](https://play.unity.com/en/games/311536cd-7298-4295-9d50-28d4bed1b779/shooter)
+
+
+### verkefni 4
+
+[kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/67b4ce6549bae2f46e9e57fb952faa99d5b6edb9/verkefni%204)
+
+video: https://youtu.be/s8xlEwigBuE
