@@ -32,4 +32,6 @@ video: https://youtu.be/aLIBcA8_KpU
 
 ### verkefni 4
 
+[kóði]()
 
+video: https://youtu.be/s8xlEwigBuE?si=AELaSvDDrWsaly_7
