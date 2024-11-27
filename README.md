@@ -39,7 +39,7 @@ video: https://youtu.be/s8xlEwigBuE?si=AELaSvDDrWsaly_7
 
 ### verkefni 5
 
-[kóði]()
+[kóði](https://github.com/ellaleaf/FORR2GL05DU/tree/643e2d10ecf8de2c49773e4f3e4f23c79d7c2796/Verkefni%205)
 
 video: https://youtu.be/E6qEi9CwTB8
 
